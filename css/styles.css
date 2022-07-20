@@ -1,0 +1,32 @@
+body{font-size: 50px;}
+
+.box1{background-color: #8a8a8a;
+height: 70px;
+margin-top: 30px;}
+
+
+.box1 p{color: white;
+
+float:right ;}
+
+.mainbox{background-color: #e3f2d8;
+	font-size: 50px;
+	border: 3px solid black;
+	text-align: center;
+	
+	}
+
+	.gee{border: 1px solid black;}
+
+
+.sub{background-color: #f29305;
+color: whitesmoke;
+text-align: center;
+}
+
+.last p{text-align: center;}
+
+.mainbox{
+	border: 0;
+}
+
